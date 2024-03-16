@@ -9,7 +9,7 @@ This script demonstrates the application of Ant Colony Optimization (ACO) for fe
 - The dataset contains images of both normal and defective wood samples.
 - The task involves extracting features from the images and training a classification model to differentiate between the two classes.
 
-  #### Note that for better accuracy you need to replace the parametrs.
+  #### Note that for better accuracy you need to replace the parameters.
 
 1. **Data Preprocessing**: 
     - Images of different tree species are loaded and features are extracted using GLCM (Gray Level Co-occurrence Matrix).
